@@ -1,0 +1,23 @@
+#photoStickers .sticker {
+	margin-botton: 5px !important;
+}
+#photoStickers {
+	padding-top: 5px;
+}
+.mainPanel {
+	padding: 5px;
+}
+
+.leftPanel {
+	padding: 10px;
+	float: left;
+}
+
+.leftPanel .fileUpload {
+	text-align: center;
+}
+
+.rightPanel {
+	float:right; 
+	width: 150px;
+}
